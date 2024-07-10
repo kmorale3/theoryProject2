@@ -1,0 +1,141 @@
+./trace_kmorale3.py outputDFAs/DFA_N3.csv
+Tracing Paths of String '' on Machine 'DFA for N3-fig. 1.34'
+
+**ACCEPTED:
+*q1+*q2+*q4
+
+1 accepted paths
+1 total paths
+
+all paths: 
+*q1+*q2+*q4
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N3.csv 0
+Tracing Paths of String '0' on Machine 'DFA for N3-fig. 1.34'
+
+0 accepted paths
+1 total paths
+
+all paths: 
+*q1+*q2+*q4, q3+q5
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N3.csv 00
+Tracing Paths of String '00' on Machine 'DFA for N3-fig. 1.34'
+
+**ACCEPTED:
+*q1+*q2+*q4, q3+q5, **q2+q6
+
+1 accepted paths
+1 total paths
+
+all paths: 
+*q1+*q2+*q4, q3+q5, **q2+q6
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N3.csv 000
+Tracing Paths of String '000' on Machine 'DFA for N3-fig. 1.34'
+
+**ACCEPTED:
+*q1+*q2+*q4, q3+q5, **q2+q6, *q3+*q4
+
+1 accepted paths
+1 total paths
+
+all paths: 
+*q1+*q2+*q4, q3+q5, **q2+q6, *q3+*q4
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N3.csv 0000
+Tracing Paths of String '0000' on Machine 'DFA for N3-fig. 1.34'
+
+**ACCEPTED:
+*q1+*q2+*q4, q3+q5, **q2+q6, *q3+*q4, **q2+q5
+
+1 accepted paths
+1 total paths
+
+all paths: 
+*q1+*q2+*q4, q3+q5, **q2+q6, *q3+*q4, **q2+q5
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N3.csv 00000
+Tracing Paths of String '00000' on Machine 'DFA for N3-fig. 1.34'
+
+0 accepted paths
+1 total paths
+
+all paths: 
+*q1+*q2+*q4, q3+q5, **q2+q6, *q3+*q4, **q2+q5, q3+q6
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N3.csv 000000
+Tracing Paths of String '000000' on Machine 'DFA for N3-fig. 1.34'
+
+**ACCEPTED:
+*q1+*q2+*q4, q3+q5, **q2+q6, *q3+*q4, **q2+q5, q3+q6, **q2+*q4
+
+1 accepted paths
+1 total paths
+
+all paths: 
+*q1+*q2+*q4, q3+q5, **q2+q6, *q3+*q4, **q2+q5, q3+q6, **q2+*q4
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N3.csv 0000000
+Tracing Paths of String '0000000' on Machine 'DFA for N3-fig. 1.34'
+
+0 accepted paths
+1 total paths
+
+all paths: 
+*q1+*q2+*q4, q3+q5, **q2+q6, *q3+*q4, **q2+q5, q3+q6, **q2+*q4, q3+q5
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N3.csv 00000000
+Tracing Paths of String '00000000' on Machine 'DFA for N3-fig. 1.34'
+
+**ACCEPTED:
+*q1+*q2+*q4, q3+q5, **q2+q6, *q3+*q4, **q2+q5, q3+q6, **q2+*q4, q3+q5, **q2+q6
+
+1 accepted paths
+1 total paths
+
+all paths: 
+*q1+*q2+*q4, q3+q5, **q2+q6, *q3+*q4, **q2+q5, q3+q6, **q2+*q4, q3+q5, **q2+q6
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N3.csv 000000000
+Tracing Paths of String '000000000' on Machine 'DFA for N3-fig. 1.34'
+
+**ACCEPTED:
+*q1+*q2+*q4, q3+q5, **q2+q6, *q3+*q4, **q2+q5, q3+q6, **q2+*q4, q3+q5, **q2+q6, *q3+*q4
+
+1 accepted paths
+1 total paths
+
+all paths: 
+*q1+*q2+*q4, q3+q5, **q2+q6, *q3+*q4, **q2+q5, q3+q6, **q2+*q4, q3+q5, **q2+q6, *q3+*q4
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N3.csv 001
+Tracing Paths of String '001' on Machine 'DFA for N3-fig. 1.34'
+
+0 accepted paths
+0 total paths
+
+all paths: 
+
+#########################################################################
+

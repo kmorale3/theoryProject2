@@ -1,0 +1,144 @@
+./trace_kmorale3.py N2.csv
+Tracing Paths of String '' on Machine 'N2 - a random NFA on the internet'
+
+0 accepted paths
+1 total paths
+
+all paths: 
+q1, q2
+
+#########################################################################
+
+./trace_kmorale3.py N2.csv a
+Tracing Paths of String 'a' on Machine 'N2 - a random NFA on the internet'
+
+**ACCEPTED:
+q1, q2, *q5
+
+1 accepted paths
+3 total paths
+
+all paths: 
+q1, q3
+q1, q2, *q5
+q1, q2, q4
+
+#########################################################################
+
+./trace_kmorale3.py N2.csv aa
+Tracing Paths of String 'aa' on Machine 'N2 - a random NFA on the internet'
+
+**ACCEPTED:
+q1, q2, q4, *q5
+
+1 accepted paths
+1 total paths
+
+all paths: 
+q1, q2, q4, *q5
+
+#########################################################################
+
+./trace_kmorale3.py N2.csv aaa
+Tracing Paths of String 'aaa' on Machine 'N2 - a random NFA on the internet'
+
+0 accepted paths
+0 total paths
+
+all paths: 
+
+#########################################################################
+
+./trace_kmorale3.py N2.csv aba
+Tracing Paths of String 'aba' on Machine 'N2 - a random NFA on the internet'
+
+**ACCEPTED:
+q1, q3, q4, *q5
+
+1 accepted paths
+1 total paths
+
+all paths: 
+q1, q3, q4, *q5
+
+#########################################################################
+
+./trace_kmorale3.py N2.csv abb
+Tracing Paths of String 'abb' on Machine 'N2 - a random NFA on the internet'
+
+**ACCEPTED:
+q1, q3, q4, *q5
+
+1 accepted paths
+1 total paths
+
+all paths: 
+q1, q3, q4, *q5
+
+#########################################################################
+
+./trace_kmorale3.py N2.csv ab
+Tracing Paths of String 'ab' on Machine 'N2 - a random NFA on the internet'
+
+**ACCEPTED:
+q1, q2, q4, *q5
+
+1 accepted paths
+2 total paths
+
+all paths: 
+q1, q3, q4
+q1, q2, q4, *q5
+
+#########################################################################
+
+./trace_kmorale3.py N2.csv b
+Tracing Paths of String 'b' on Machine 'N2 - a random NFA on the internet'
+
+0 accepted paths
+0 total paths
+
+all paths: 
+
+#########################################################################
+
+./trace_kmorale3.py N2.csv abab
+Tracing Paths of String 'abab' on Machine 'N2 - a random NFA on the internet'
+
+0 accepted paths
+0 total paths
+
+all paths: 
+
+#########################################################################
+
+./trace_kmorale3.py N2.csv aab
+Tracing Paths of String 'aab' on Machine 'N2 - a random NFA on the internet'
+
+0 accepted paths
+0 total paths
+
+all paths: 
+
+#########################################################################
+
+./trace_kmorale3.py N2.csv abaa
+Tracing Paths of String 'abaa' on Machine 'N2 - a random NFA on the internet'
+
+0 accepted paths
+0 total paths
+
+all paths: 
+
+#########################################################################
+
+./trace_kmorale3.py N2.csv abc
+Tracing Paths of String 'abc' on Machine 'N2 - a random NFA on the internet'
+
+0 accepted paths
+0 total paths
+
+all paths: 
+
+#########################################################################
+

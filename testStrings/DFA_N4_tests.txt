@@ -1,0 +1,180 @@
+./trace_kmorale3.py outputDFAs/DFA_N4.csv
+Tracing Paths of String '' on Machine 'DFA for N4-fig. 1.36'
+
+**ACCEPTED:
+**q1+q3
+
+1 accepted paths
+1 total paths
+
+all paths: 
+**q1+q3
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N4.csv a
+Tracing Paths of String 'a' on Machine 'DFA for N4-fig. 1.36'
+
+**ACCEPTED:
+**q1+q3, **q1+q3
+
+1 accepted paths
+1 total paths
+
+all paths: 
+**q1+q3, **q1+q3
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N4.csv b
+Tracing Paths of String 'b' on Machine 'DFA for N4-fig. 1.36'
+
+0 accepted paths
+1 total paths
+
+all paths: 
+**q1+q3, q2
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N4.csv bb
+Tracing Paths of String 'bb' on Machine 'DFA for N4-fig. 1.36'
+
+0 accepted paths
+1 total paths
+
+all paths: 
+**q1+q3, q2, q3
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N4.csv bba
+Tracing Paths of String 'bba' on Machine 'DFA for N4-fig. 1.36'
+
+**ACCEPTED:
+**q1+q3, q2, q3, **q1+q3
+
+1 accepted paths
+1 total paths
+
+all paths: 
+**q1+q3, q2, q3, **q1+q3
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N4.csv aa
+Tracing Paths of String 'aa' on Machine 'DFA for N4-fig. 1.36'
+
+**ACCEPTED:
+**q1+q3, **q1+q3, **q1+q3
+
+1 accepted paths
+1 total paths
+
+all paths: 
+**q1+q3, **q1+q3, **q1+q3
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N4.csv baba
+Tracing Paths of String 'baba' on Machine 'DFA for N4-fig. 1.36'
+
+**ACCEPTED:
+**q1+q3, q2, q2+q3, q3, **q1+q3
+
+1 accepted paths
+1 total paths
+
+all paths: 
+**q1+q3, q2, q2+q3, q3, **q1+q3
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N4.csv abba
+Tracing Paths of String 'abba' on Machine 'DFA for N4-fig. 1.36'
+
+**ACCEPTED:
+**q1+q3, **q1+q3, q2, q3, **q1+q3
+
+1 accepted paths
+1 total paths
+
+all paths: 
+**q1+q3, **q1+q3, q2, q3, **q1+q3
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N4.csv babba
+Tracing Paths of String 'babba' on Machine 'DFA for N4-fig. 1.36'
+
+0 accepted paths
+1 total paths
+
+all paths: 
+**q1+q3, q2, q2+q3, q3, TRAP, TRAP
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N4.csv aabba
+Tracing Paths of String 'aabba' on Machine 'DFA for N4-fig. 1.36'
+
+**ACCEPTED:
+**q1+q3, **q1+q3, **q1+q3, q2, q3, **q1+q3
+
+1 accepted paths
+1 total paths
+
+all paths: 
+**q1+q3, **q1+q3, **q1+q3, q2, q3, **q1+q3
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N4.csv aaaabba
+Tracing Paths of String 'aaaabba' on Machine 'DFA for N4-fig. 1.36'
+
+**ACCEPTED:
+**q1+q3, **q1+q3, **q1+q3, **q1+q3, **q1+q3, q2, q3, **q1+q3
+
+1 accepted paths
+1 total paths
+
+all paths: 
+**q1+q3, **q1+q3, **q1+q3, **q1+q3, **q1+q3, q2, q3, **q1+q3
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N4.csv abbba
+Tracing Paths of String 'abbba' on Machine 'DFA for N4-fig. 1.36'
+
+0 accepted paths
+1 total paths
+
+all paths: 
+**q1+q3, **q1+q3, q2, q3, TRAP, TRAP
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N4.csv abbaaaaa
+Tracing Paths of String 'abbaaaaa' on Machine 'DFA for N4-fig. 1.36'
+
+**ACCEPTED:
+**q1+q3, **q1+q3, q2, q3, **q1+q3, **q1+q3, **q1+q3, **q1+q3, **q1+q3
+
+1 accepted paths
+1 total paths
+
+all paths: 
+**q1+q3, **q1+q3, q2, q3, **q1+q3, **q1+q3, **q1+q3, **q1+q3, **q1+q3
+
+#########################################################################
+
+./trace_kmorale3.py outputDFAs/DFA_N4.csv abc
+Tracing Paths of String 'abc' on Machine 'DFA for N4-fig. 1.36'
+
+0 accepted paths
+0 total paths
+
+all paths: 
+
+#########################################################################
+

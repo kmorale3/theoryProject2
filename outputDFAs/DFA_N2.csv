@@ -1,0 +1,15 @@
+DFA for N2 - a random NFA on the internet
+**q5,*q3+q4+*q5,*q4+*q5,TRAP,q1+q2
+b,a
+q1+q2
+**q5,*q3+q4+*q5,*q4+*q5
+q1+q2,b,TRAP
+q1+q2,a,*q3+q4+*q5
+TRAP,b,TRAP
+TRAP,a,TRAP
+*q3+q4+*q5,b,*q4+*q5
+*q3+q4+*q5,a,**q5
+*q4+*q5,b,**q5
+*q4+*q5,a,**q5
+**q5,b,TRAP
+**q5,a,TRAP
